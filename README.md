@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Elias Jabib</h1>
-<h3 align="center">A passionate Back-end developer from Colombia</h3>
+<h3 align="center">A Back-end developer from Colombia</h3>
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/juan-elias-jabib-caro-105784229/**
+- My email: **juaneliasjabib02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
