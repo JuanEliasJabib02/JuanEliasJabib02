@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Node.js**
 
-- 💬 Languages: **Spanish, English B2**
+- 💬 Languages: **Spanish, English B1**
 - 💌 email: **juaneliasjabib02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
