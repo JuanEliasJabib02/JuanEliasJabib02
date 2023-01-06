@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👽, I'm Juan Elias Jabib  </h1>
-<h3 align="center">A Back-end developer from Colombia </h3>
-
-- 💬 Ask me about **Node.js**
+<h3 align="center">A Full stack Javascript developer from Colombia </h3>
 
 - 💬 Languages: **Spanish, English B1**
 - 💌 Email: **juaneliasjabib02@gmail.com**
