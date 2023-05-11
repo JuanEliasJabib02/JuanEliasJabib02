@@ -5,4 +5,4 @@
 - 💌 Email: **juaneliasjabib02@gmail.com**
 
 <h3 align="left">💻 STATS:</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanEliasJabib02)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanEliasJabib02&theme=one-dark-pro&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
