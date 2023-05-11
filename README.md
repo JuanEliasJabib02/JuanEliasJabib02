@@ -4,10 +4,5 @@
 - 💬 Languages: **Spanish, English B2**
 - 💌 Email: **juaneliasjabib02@gmail.com**
 
-My portfolio : https://juaneliasjabib.netlify.app/
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-elias-jabib-caro-105784229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-elias-jabib-caro-105784229/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">💻 My stack:</h3>
+<h3 align="left">💻 STATS:</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanEliasJabib02&theme=one-dark-pro&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
