@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👽, I'm Juan Elias Jabib  </h1>
 <h3 align="center">A Full stack developer from Colombia </h3>
 
-- 💬 Languages: **Spanish, English B1**
+- 💬 Languages: **Spanish, English B2**
 - 💌 Email: **juaneliasjabib02@gmail.com**
 
 My portfolio : https://juaneliasjabib.netlify.app/
