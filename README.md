@@ -11,8 +11,6 @@ I have some experience with other languages as well, such as Python, Rust, Haske
 
 Outside of programming, I teach teach music 🎼, play drums 🥁 in bands, and attempt to play guitar (at home). Peep the SoundCloud!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaneliasjabib02&show_icons=true&locale=en&layout=compact" alt="juaneliasjabib02" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juaneliasjabib02&show_icons=true&locale=en" alt="juaneliasjabib02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juaneliasjabib02&" alt="juaneliasjabib02" /></p>
