@@ -1,11 +1,8 @@
 
 <h1 align="start">Hello friend👽</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20Views&color=f20736&style=flat" alt="ashutosh-pmishra" /> </p>
-
-- 🔭 I’m currently working on **Blacksip**
-- 
-- 💬 My current stack: **NextJs, React, Node, Koa, GraphQL**
+- **React**
+- **Next**
 
 - 📫 How to reach me **juaneliasjabib02@gmail.com**
 
