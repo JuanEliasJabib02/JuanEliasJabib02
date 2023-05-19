@@ -1,8 +1,7 @@
 
-<h1 align="start">Hello friend👽</h1>
+<h1 align="start">Hi friend!</h1>
 
-- **React**
-- **Next**
+I'm Juan, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Node.js and React ⚛. In addition to that, I enjoy working with various libraries and technologies to enhance my projects, particularly in the context of e-commerce in this moment. My current stack include:
 
 - 📫 How to reach me: just dm me on linkenid 
 
