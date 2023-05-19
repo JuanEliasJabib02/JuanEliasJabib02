@@ -4,7 +4,7 @@
 - **React**
 - **Next**
 
-- 📫 How to reach me **juaneliasjabib02@gmail.com**
+- 📫 How to reach me: just dm me on linkenid 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juaneliasjabib02&show_icons=true&locale=en" alt="juaneliasjabib02" /></p>
