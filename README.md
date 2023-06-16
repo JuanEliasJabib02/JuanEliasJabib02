@@ -3,7 +3,7 @@
 
 I'm Juan, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Node.js and React ⚛. In addition to that, I enjoy working with various libraries and technologies to enhance my projects, particularly in the context of e-commerce in this moment. My current stack include:
 
-Frontend: React, Tailwind, Next13, Vtex, Jest
+Frontend: React, Tailwind, Next13, Vtex, Jest, Shopify
 
 
 Backend: Node.js, Koa, Express, PostgreSQL, Jest, Swagger, Docker, Render
