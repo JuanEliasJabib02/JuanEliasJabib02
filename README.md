@@ -29,7 +29,7 @@
   <li>Interested on  building custom apps with modern stacks like Next.js and Supabase. This setup helps small teams create secure, high-performance, and SEO-friendly apps quickly and easily.
   <li>in love with Medusa.js for my e-commerce sites with Next.js + Vercel. It's like the elixir for crafting top-quality e-commerce!.
 </li>
-  <li>I love the open source ,because the better techs are free and give to a lot of ppl including me the opportunity to get a better life from latam.
+  <li>I love the open source because the better techs are free and give to a lot of ppl including me the opportunity to get a better life from latam.
 </li>
   </li>
   <li>
