@@ -1,7 +1,6 @@
 
 <h1 align="start" >Be positive, Be happy!🌱 | Javascript Developer</h1>
 
-<h2>Developer mindset</h2>
 <ul>
   <li>Currently, i can work with any JavaScript stack, front-end or back-end. I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
   <li>Interested on  building custom apps with modern stacks like Next.js and Supabase. This setup helps small teams create secure, high-performance, and SEO-friendly apps quickly and easily.
