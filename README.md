@@ -2,27 +2,28 @@
 <h1 align="start" >Be positive, Be happy!🌱 | Javascript Developer</h1>
 
 <h2>Techs that i been using active and i see it with good eye </h2>
-<ul style="column-count: 5;">
-<li>Javascript</li>
-<li>Node.js</li>
-<li>Typescript</li>
-<li>React</li>
-<li>Next.js</li>
-<li>Server actions</li>
-<li>Medusa.js</li>
-<li>Supabase</li>
-<li>Tailwind</li>
-<li>PostgreSQL</li>
-<li>TypeORM</li>
-<li>Express</li>
-<li>Strapi</li>
-<li>Swr</li>
-<li>Zustand</li>
-<li>Cloudflare</li>
-<li>Fly.io</li>
-<li>Vtex IO</li>
-<li>Tanstack</li>
-</ul>
+
+### Technologies
+
+- JavaScript
+- Node.js
+- TypeScript
+- React
+- Next.js
+- Server actions
+- Medusa.js
+- Supabase
+- Tailwind
+- PostgreSQL
+- TypeORM
+- Express
+- Strapi
+- SWR
+- Zustand
+- Cloudflare
+- Fly.io
+- Vtex IO
+- Tanstack
 <h2>Mindset</h2>
 <ul>
   <li>Currently, i can work with any JavaScript stack, front-end or back-end. I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
