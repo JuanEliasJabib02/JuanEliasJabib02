@@ -16,7 +16,7 @@
 </ul>
 <h2> Techs that i been using active and i see it with good eye </h2>
 
- Javascript, Node.js, Typescript, React , Nextjs, Tailwind, Server actions, Medusajs, Supabase , PostgreSQL, Vtex IO, TypeORM , Express, Strapi , Swr, Zustand, Cloudflare, Fly.io, tanstack query.
+ Javascript, Node.js, Typescript, React, Nextjs, Tailwind, Server actions, Medusajs, Supabase, PostgreSQL, Vtex IO, TypeORM , Express, Strapi, Swr, Zustand, Cloudflare, Fly.io, Vercel Infrastructure, tanstack query.
 
       
 
