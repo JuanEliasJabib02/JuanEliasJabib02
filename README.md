@@ -12,12 +12,15 @@
 <li>Supabase</li>
 <li>Tailwind</li>
 <li>PostgreSQL</li>
-<li>Sequelize</li>
+<li>TypeORM</li>
 <li>Express</li>
 <li>Strapi</li>
 <li>Swr</li>
 <li>Zustand</li>
 <li>Cloudflare</li>
+<li>Fly.io</li>
+<li>Vtex IO</li>
+<li>Tanstack</li>
 
 <h2>Mindset</h2>
 
