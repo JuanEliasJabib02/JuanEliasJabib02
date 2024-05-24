@@ -25,16 +25,14 @@
 
 <h2>Mindset</h2>
 <ul>
-  <li>Currently i can work in any Javascript stack as Front or Back with any library just watching docs and applying to solve the problem.</li>
-  <li>Most interesed on build full customs apps in modern stacks around Nextjs and a BaaS like Supabase, with this type of stack a small team can do faster robust and scalables, also with this type of stack is easier and faster to build a typed end-to-end code , high security, high performance, and high seo optimization app.
-  <li> I'm in love with Medusa.js as the core for my e-commerces apps using next.js + vercel, same benefits is a modern stack, easy way to get a top quality e-commerce, just using medusa as my backend to avoid re-invest the wheel and medusa team is doing a great job to innovate.
+  <li>Currently, i can work with any JavaScript stack, front-end or back-end. I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
+  <li>Interested on  building custom apps with modern stacks like Next.js and Supabase. This setup helps small teams create secure, high-performance, and SEO-friendly apps quickly and easily.
+  <li>in love with Medusa.js for my e-commerce sites with Next.js + Vercel. It's like the elixir for crafting top-quality e-commerce!.
 </li>
-  <li>I love the open source , because the better techs are free and give to a lot of ppl including me the opportunity to get a better life from latam.
+  <li>I love the open source ,because the better techs are free and give to a lot of ppl including me the opportunity to get a better life from latam.
 </li>
   </li>
   <li>
-    Not interesed on learn new languages to do the same thing, more interesed on solving real business problems, all that languages are good and can be used to build great things,
-    but my personal choise is Javascript because allow me to do full-stack apps with the same syntax, is popular and new tools are born on top of it.
-    can use more time solving problems that learning another syntax for the same purpose.
+ I'm not interested in learning new languages to accomplish the same tasks. My focus is on solving real business problems. While all languages have their strengths, I prefer JavaScript for its ability to build full-stack apps with a single syntax. It's popular and constantly evolving with new tools. I'd rather spend my time solving problems than learning another syntax for the same purpose.
 </li>
 </ul>
