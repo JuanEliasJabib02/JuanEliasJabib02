@@ -1,7 +1,7 @@
 
 <h1 align="start" >Be positive, Be happy!🌱 | Javascript Developer</h1>
 
-### Techs that i been using active and i see it with good eye 
+<h2> Techs that i been using active and i see it with good eye </h2>
 
 - JavaScript
 - Node.js
