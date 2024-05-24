@@ -1,7 +1,7 @@
 
 <h1 align="start">Be positive, Be happy!🌱</h1>
 
-<h2>lTechs that i been using active and i see it with good eye </h2>
+<h2>Techs that i been using active and i see it with good eye </h2>
 <ul >
 <li>Javascript</li>
 <li>Node.js</li>
