@@ -15,6 +15,10 @@
 </li>
 </ul>
 <h2> Techs that i been using active and i see it with good eye </h2>
+
+| Javascript  | Node.js  |
+| Content Cell  | Content Cell  |
+
     <ul >
     <li>Javascript</li>
     <li>Node.js</li>
