@@ -2,7 +2,7 @@
 <h1 align="start" >Be positive, Be happy!🌱 | Javascript Developer</h1>
 
 <h2>Techs that i been using active and i see it with good eye </h2>
-<ul style="column-count: 5;"> >
+<ul style="column-count: 5;">
 <li>Javascript</li>
 <li>Node.js</li>
 <li>Typescript</li>
