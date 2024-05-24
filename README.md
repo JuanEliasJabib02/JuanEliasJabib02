@@ -12,6 +12,9 @@
   <li>
  I'm not interested in learning new languages to accomplish the same tasks. My focus is on solving real business problems. While all languages have their strengths, I prefer JavaScript for its ability to build full-stack apps with a single syntax. It's popular and constantly evolving with new tools. I'd rather spend my time solving problems than learning another syntax for the same purpose.
 </li>
+<li>
+ getting better everyday my design eye, actually i can prototype interfaces pretty good to!.
+</li>
 </ul>
 <h2>Tech stack.</h2>
  Javascript, Node.js, Typescript, React, Nextjs, Tailwind, Server actions, Medusajs, Supabase, PostgreSQL, Vtex IO, TypeORM , Express, Strapi, Swr, Zustand, Cloudflare, Fly.io, Vercel Infrastructure, tanstack query.
