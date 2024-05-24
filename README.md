@@ -8,6 +8,7 @@
 <li>Typescript</li>
 <li>React</li>
 <li>Next.js</li>
+<li>Server actions</li>
 <li>Medusa.js</li>
 <li>Supabase</li>
 <li>Tailwind</li>
@@ -21,6 +22,7 @@
 <li>Fly.io</li>
 <li>Vtex IO</li>
 <li>Tanstack</li>
+
 
 <h2>Mindset</h2>
 
