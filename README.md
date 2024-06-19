@@ -16,7 +16,7 @@
  Getting better everyday my design eye, actually i can prototype interfaces very good!.
 </li>
 <li>
-I don't like to take automatic coding tests like LeetCode or similar problems. Real developer jobs have nothing similar to this, so I consider them a waste of time. Therefore, I only pursue interviews where the employer shows genuine interest in my background. However, I feel comfortable in any technical interview discussing my knowledge or being questioned by the lead tech :)
+I skip automatic coding tests like LeetCode as they don't simulate real developer work. I focus on interviews where employers value my background. I'm comfortable in any technical interview discussing my skills.
 </li>
 </ul>
 <h2>Tech stack.</h2>
