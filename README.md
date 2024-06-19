@@ -15,9 +15,6 @@
 <li>
  Getting better everyday my design eye, actually i can prototype interfaces very good!.
 </li>
-<li>
-I skip automatic coding tests like LeetCode as they don't simulate real developer work. I focus on interviews where employers value my background. I'm comfortable in any technical interview discussing my skills.
-</li>
 </ul>
 <h2>Tech stack.</h2>
  Javascript, Node.js, Typescript, React, Nextjs, Tailwind, Server actions, Medusajs, Supabase, PostgreSQL, Vtex IO, TypeORM , Express, Strapi, Cloudflare, Fly.io, Vercel.
