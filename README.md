@@ -16,7 +16,8 @@
 </li>
 </ul>
 <h2>Tech stack.</h2>
- Javascript, Node.js, Typescript, React, Nextjs, Tailwind, React Native, Server actions, Medusajs, Supabase, PostgreSQL, TypeORM , Express, Strapi, Cloudflare, Fly.io, Vercel, Aws, 
+ React, React Native, Next.js, Expo, Tailwind, Supabase, AWS,  Javascript, Node.js,  Typescript, Server actions, PostgreSQL, Express, Cloudflare, Vercel,
 
     
 
+ 
