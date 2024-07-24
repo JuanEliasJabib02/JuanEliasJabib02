@@ -1,5 +1,5 @@
 
-<h1 align="start" >Be positive, Be happy!🌱 | React Developer</h1>
+<h1 align="start" >Be positive, Be happy!🌱 | Javascript Developer</h1>
 
 <ul>
   <li>Currently, i can work with any JavaScript stack, front-end or back-end. I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
@@ -16,7 +16,7 @@
 </li>
 </ul>
 <h2>Tech stack.</h2>
- React, React Native, Next.js, Expo, Tailwind, Supabase, AWS,  Javascript, Node.js,  Typescript, Server actions, PostgreSQL, Express, Cloudflare, Vercel, Vitest
+ React, Next.js,  Tailwind, Supabase, AWS, Javascript, Node.js, Typescript, Server actions, React Native, Expo, PostgreSQL, Express, Cloudflare, Vercel, Vitest
 
     
 
