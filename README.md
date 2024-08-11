@@ -3,8 +3,6 @@
 
 <ul>
   <li>Currently, i can work with any JavaScript stack, front-end or back-end. I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
-  <li>Interested on  building custom apps with modern stacks like Next.js and Supabase. This setup helps small teams create secure, high-performance, and SEO-friendly apps quickly and easily.
-</li>
   <li>I love the open source because the better techs are free and give to a lot of ppl including me the opportunity to get a better life from latam.
 </li>
   </li>
