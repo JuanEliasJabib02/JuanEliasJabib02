@@ -13,7 +13,7 @@
 
 <h2>Tech stack.</h2>
 
-- i been used a lot of differents libraries, so i just gonna say the major tools for every case that actually use more..
+ I been used a lot of differents libraries, so i just gonna say the major tools for every case that actually use more..
 
  Language: Typescript 
  <br/>
