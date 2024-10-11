@@ -1,5 +1,5 @@
 
-<h1 align="start" >Be positive, Be happy!🌱 | Full Stack Developer </h1>
+<h1 align="start" >Be positive, Be happy!🌱 | Software Developer </h1>
 
 <ul>
   <li>Currently, i can work with any JavaScript stack, front-end or back-end for mobile and webs apps. I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
