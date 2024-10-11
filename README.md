@@ -16,11 +16,17 @@
 - i been used a lot of differents libraries, so i just gonna say the major tools for every case that actually use more..
 
  Language: Typescript 
- Frontend: React with Next.js, Tailwind for styling.
+ <br/>
+ Frontend: React with Next.js, Tailwind for styling
+<br/>
  iOS & Android: React Native with Expo.
+<br/>
  Backend: Nodejs with Nestjs (OOP).
+<br/>
  Testing:  i just use jest for all the platforms.
+<br/>
  Cloud: Vercel, AWS.
+<br/>
  LLM: Chatgtp & Gemini
 
  
