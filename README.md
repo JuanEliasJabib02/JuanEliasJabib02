@@ -21,7 +21,7 @@
 <br/>
  iOS & Android: React Native with Expo.
 <br/>
- Backend: Nodejs with Nestjs (OOP).
+ Backend: Nodejs
 <br/>
  Testing:  i just use jest for all the platforms.
 <br/>
