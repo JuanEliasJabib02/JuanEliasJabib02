@@ -27,6 +27,6 @@
 <br/>
  Cloud: Vercel, AWS.
 <br/>
- IA: ChatGTP models.
+ IA: OpenAI models like chatgtp ect...
 
  
