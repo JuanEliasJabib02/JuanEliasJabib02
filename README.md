@@ -27,6 +27,6 @@
 <br/>
  Cloud: Vercel, AWS.
 <br/>
- LLM: Chatgtp & Gemini
+ IA: ChatGTP models.
 
  
