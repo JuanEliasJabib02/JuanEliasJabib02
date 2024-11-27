@@ -21,7 +21,7 @@
 <br/>
  iOS & Android: React Native with Expo.
 <br/>
- Backend: Nodejs
+ Backend: Nodejs, Docker, Microservices, Nestjs.
 <br/>
  Testing:  i just use jest for all the platforms.
 <br/>
