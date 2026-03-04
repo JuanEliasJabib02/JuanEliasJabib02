@@ -1,5 +1,5 @@
 
-<h1 align="start" >Be positive, Be happy!🌱 | AI Software Developer </h1>
+<h1 align="start" >Be positive, Be happy!🌱 | Software Developer </h1>
 
 <ul>
   
